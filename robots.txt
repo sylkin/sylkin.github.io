@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sylkin.github.io/a/sitemap.html
+Sitemap: https://sylkin.github.io/b/sitemap.html
+Sitemap: https://sylkin.github.io/c/sitemap.html
+Sitemap: https://sylkin.github.io/d/sitemap.html
